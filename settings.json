@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 15,
+    "workbench.colorTheme": "Ayu Dark",
+    "editor.minimap.enabled": false,
+    "workbench.sideBar.location": "right",
+    "window.menuBarVisibility": "toggle"
+}
