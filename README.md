@@ -6,7 +6,7 @@ Note: This image has only been tested on Linux
 
 # Usage
 
-## Launch the IDE
+## Launch VSCode
 
 ```console
 $ docker run --rm -it -d --privileged -v /tmp/.X11-unix:/tmp/.X11-unix -v $(pwd):/app -e DISPLAY=unix$DISPLAY --device /dev/dri --name php-ide --net="host" mikegeorgeff/vscode
